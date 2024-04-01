@@ -28,11 +28,9 @@ The Meta-Analysis Research Application aims to provide users with a platform to 
 6. Key Findings: What were the key findings related to the key question?
 
 ## Team Members
-1. Miles Exner
-2. John McCants
-
-## Required Resources
-- Figma Designers: We are looking to onboard Figma designers to help with the UI/UX design of the application.
+1. Miles Exner - Backend Database and API
+2. John McCants - Frontend UI
+3. Justine Nicole - UX Design
 
 ## Timeline
 - [Insert Timeline Here]
