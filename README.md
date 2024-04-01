@@ -1,1 +1,3 @@
-"# Meta-Genesis" 
+# Meta-Analysis Research Application
+
+This project aims to create a platform for users to query research articles and generate meta-analyses to answer specific questions. The application will search the NCBI (PubMed) database for relevant articles, store them in a vector database, and pass the data to a Large Language Model (LLM) API endpoint for meta-analysis. The results will be published to a database and displayed in a user-friendly format on the application's frontend.
